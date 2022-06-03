@@ -1,0 +1,37 @@
+1.1 Discussion Board - Source Control
+
+Chosen open source projects:
+
+1.) https://github.com/github/gitignore 
+
+The file .gitignore tells Git which files to ignore when it's time to commit 
+your project to the repository in GitHub. It will ignore directories with that particular name.
+This link seemed to be the best option to the one required in class.
+
+2.) https://github.com/github-for-unity/Unity
+
+This extension allows you to bring GitHub inside of Unity. 
+Allowing you to have source control with your work. I chose this one because
+even though we are using c++ at the moment and for the majority, c# is still a
+language I hope to keep on practicing and hopefully developing with as well in the future.
+
+3.) https://github.com/sebh/UnrealEngineSkyAtmosphere
+
+This project seemed to be a test of a created sky atmosphere. Would love to be able
+to run it myself. I want to be able to understand better the game engine I believe I will 
+be using the most with c++.
+
+4.) https://github.com/AmazingAmpharos/OoT-Randomizer
+
+This program is integrates one of my favorite games, Zelda: Ocarina Of Time. The program seems
+to basically grab all of the items in the game and change their location giving a
+different approach and feel to the classic. I'm very insterested in the capabilities of 
+a good randomizing code and would love to play it or experiment with it.
+
+5.) https://github.com/Unity-Technologies/FPSSample
+
+This is an example of how a First Person Shooter would play out with Unity. I'm interested 
+in changing the formula or looks and feels of FPS games. I know games that are RPG/FPS can be
+done much better, but before I get to that point, it would be good experience to see how it 
+actually plays out in coding. 
+
